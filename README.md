@@ -5,6 +5,8 @@ This repository contains the implementation of **WeakSegNet**, a weakly-supervis
 
 Our implementation is evaluated on the **Oxford-IIIT Pet Dataset**.
 
+The report submitted for the project can be found in the file *Report_AppliedDL_Coursework_2.pdf* of the repository.
+
 ## Research scope
 ### General goal
 - Define a weak supervision problem
